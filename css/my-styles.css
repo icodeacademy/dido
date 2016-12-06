@@ -1,0 +1,39 @@
+body {}
+h1 {
+    font-family: 'Pacifico', cursive;
+}
+.top-bar,
+.top-bar ul {
+    background: #222;
+    color: white;
+}
+.site-name {
+    color: #fff;
+    font-weight: bold;
+}
+.banner {
+    color: #fff;
+    text-align: center;
+    text-shadow: 5px 5px 0 #000;
+    padding: 100px 20px;
+    margin-bottom: 40px;
+    background-image: url(../img/optimized/image06.jpeg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-bottom: 10px solid black;
+    border-top: 10px solid black;
+}
+.blog-post {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.orbit {
+    margin: 30px 0;
+}
+.footer {
+    background-color: #222;
+    color: #fff;
+    padding: 20px;
+}
